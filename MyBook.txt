@@ -1,0 +1,12 @@
+Ivan
+Ivanov
+123456
+11.01.1900
+Petr
+Petrov
+987654
+12.02.1901
+Abram
+Abramov
+675843
+13.03.1903
