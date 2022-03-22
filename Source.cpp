@@ -15,7 +15,7 @@ using namespace std;
 
 const int NAME_SIZE = 100; // размер имени и фамилии
 
-struct Date {
+struct Date { // структура дата
 	size_t day;
 	size_t month;
 	size_t year;
